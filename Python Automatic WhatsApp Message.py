@@ -5,8 +5,8 @@ import time
 time.sleep(5)
 
 # Sends message at 8:20 PM, waits 15 seconds before typing
-pywhatkit.sendwhatmsg("+8801822169570", "Happy Birthday Sweet Heart", 20, 20, wait_time=15)
+pywhatkit.sendwhatmsg("+880xxxxxxxxx0", "Happy Birthday Sweet Heart", 20, 20, wait_time=15)
 # Sends message at 8:21 PM, waits 15 seconds before typing
-pywhatkit.sendwhatmsg("+8801611579772", "Happy Birthday Sweet Heart", 20, 21, wait_time=15)
+pywhatkit.sendwhatmsg("+8801xxxxxxxxx2", "Happy Birthday Sweet Heart", 20, 21, wait_time=15)
 
 print("Message scheduled. Make sure not to touch your mouse or keyboard.")
