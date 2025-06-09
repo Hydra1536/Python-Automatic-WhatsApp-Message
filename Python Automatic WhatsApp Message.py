@@ -1,3 +1,4 @@
+# run !pip install pywhatkit in the cmd line to install the library
 import pywhatkit
 import time
 
